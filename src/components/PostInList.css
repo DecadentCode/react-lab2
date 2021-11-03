@@ -1,0 +1,10 @@
+.PostInList {
+  margin: 0px;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px;
+}

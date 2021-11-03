@@ -1,0 +1,18 @@
+.SocialPosts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  flex-wrap: wrap;
+  width: 60%;
+}
+
+.SocialPosts h1 {
+  color: #03a9f4;
+}
+
+.SocialPosts button {
+  background-color: #03a9f4;
+  color: white;
+}
